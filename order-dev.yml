@@ -13,4 +13,5 @@ eureka:
 girl:
   name:lili
   age:20
-env:test1
+env:
+  test1
